@@ -7,3 +7,7 @@ fun main() {
 fun fixBugTest1(){
     println("fixBugTest1")
 }
+
+fun fixBugTest2(){
+    println("fixBugTest1")
+}
